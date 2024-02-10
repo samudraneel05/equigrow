@@ -1,4 +1,4 @@
-# Equigrow
+# EquiGrow
 Created a dynamic web application for tracking and trading stocks, with a functional registration and login feature that stores customer data using SQL.
 
 Included a dashboard that displays stocks bought and added to the watchlist, and added separate pages for buying  or selling transactions.
